@@ -1,0 +1,16 @@
+.my-second-paragraph {
+  color: blue;
+  font-size: 24px;
+}
+
+.my-paragraph {
+  color: #0000ff;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  cursor: move;
+}
